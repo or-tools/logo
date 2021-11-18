@@ -11,6 +11,7 @@
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -22,9 +23,9 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      showgrid="true"
-     inkscape:zoom="0.63085935"
-     inkscape:cx="-64.198145"
-     inkscape:cy="168.81734"
+     inkscape:zoom="0.44608492"
+     inkscape:cx="353.07178"
+     inkscape:cy="440.49908"
      inkscape:window-width="1918"
      inkscape:window-height="1038"
      inkscape:window-x="0"
@@ -45,9 +46,9 @@
   <g
      id="layer1">
     <rect
-       style="fill:#4285f4;fill-opacity:1;stroke:none;stroke-width:16.6749;stroke-linejoin:bevel;paint-order:fill markers stroke;stop-color:#000000"
+       style="fill:#4285f4;fill-opacity:1;stroke:none;stroke-width:9.32158;stroke-linejoin:bevel;paint-order:fill markers stroke;stop-color:#000000"
        id="rect208"
-       width="384"
+       width="120"
        height="95.999969"
        x="-448"
        y="40.000031"
@@ -84,13 +85,45 @@
        x="64"
        y="-472"
        transform="rotate(90)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect208"
+       id="use992"
+       transform="translate(-3.0517578e-5,-132)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect208"
+       id="use994"
+       transform="translate(-3.0517578e-5,-264)"
+       width="100%"
+       height="100%" />
     <rect
-       style="fill:#4285f4;fill-opacity:1;stroke:none;stroke-width:16.6749;stroke-linejoin:bevel;paint-order:fill markers stroke;stop-color:#000000"
-       id="rect1509"
-       width="384"
+       style="fill:#4285f4;fill-opacity:1;stroke:none;stroke-width:9.32158;stroke-linejoin:bevel;paint-order:fill markers stroke;stop-color:#000000"
+       id="rect1076"
+       width="120"
        height="95.999969"
        x="-448"
-       y="264.00003"
+       y="264.00006"
        transform="rotate(-90)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect208"
+       id="use1078"
+       transform="translate(224,-132)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect208"
+       id="use1080"
+       transform="translate(224,-264)"
+       width="100%"
+       height="100%" />
   </g>
 </svg>

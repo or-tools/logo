@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="1.6035156"
-     inkscape:cx="211.72229"
-     inkscape:cy="253.50548"
+     inkscape:zoom="0.8017578"
+     inkscape:cx="136.57491"
+     inkscape:cy="326.15835"
      inkscape:window-width="1918"
      inkscape:window-height="1038"
      inkscape:window-x="0"
@@ -47,7 +47,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:#4285f4;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.5"
+       style="fill:#4285f4;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.9729979"
        d="M 96,416 V 160 l 80,-80 256,144 24,192 z"
        id="path5948" />
     <image
@@ -106,135 +106,135 @@
        id="path2373"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#4285f4;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#000000;stroke:#0f9d58;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;stroke-opacity:1;fill-opacity:0"
        d="M 464,464 424,160"
        id="path2375"
        sodipodi:nodetypes="cc" />
     <g
        id="g32371"
-       style="fill:#0f9d58;fill-opacity:1">
+       style="fill:#000006;fill-opacity:1">
       <circle
-         style="fill:#0f9d58;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
+         style="fill:#000006;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
          id="path3064"
          cx="144"
          cy="128"
          r="12" />
       <circle
-         style="fill:#0f9d58;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
+         style="fill:#000006;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
          id="circle3146"
          cx="208"
          cy="128"
          r="12" />
       <circle
-         style="fill:#0f9d58;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
+         style="fill:#000006;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
          id="circle3148"
          cx="144"
          cy="192"
          r="12" />
       <circle
-         style="fill:#0f9d58;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
+         style="fill:#000006;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
          id="circle3150"
          cx="208"
          cy="192"
          r="12" />
       <circle
-         style="fill:#0f9d58;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
+         style="fill:#000006;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
          id="circle3152"
          cx="144"
          cy="256"
          r="12" />
       <circle
-         style="fill:#0f9d58;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
+         style="fill:#000006;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
          id="circle3154"
          cx="208"
          cy="256"
          r="12" />
       <circle
-         style="fill:#0f9d58;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
+         style="fill:#000006;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
          id="circle3156"
          cx="144"
          cy="320"
          r="12" />
       <circle
-         style="fill:#0f9d58;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
+         style="fill:#000006;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
          id="circle3158"
          cx="208"
          cy="320"
          r="12" />
       <circle
-         style="fill:#0f9d58;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
+         style="fill:#000006;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
          id="circle3160"
          cx="144"
          cy="384"
          r="12" />
       <circle
-         style="fill:#0f9d58;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
+         style="fill:#000006;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
          id="circle3162"
          cx="208"
          cy="384"
          r="12" />
       <circle
-         style="fill:#0f9d58;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
+         style="fill:#000006;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
          id="circle3248"
          cx="272"
          cy="192"
          r="12" />
       <circle
-         style="fill:#0f9d58;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
+         style="fill:#000006;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
          id="circle3250"
          cx="272"
          cy="256"
          r="12" />
       <circle
-         style="fill:#0f9d58;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
+         style="fill:#000006;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
          id="circle3252"
          cx="272"
          cy="320"
          r="12" />
       <circle
-         style="fill:#0f9d58;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
+         style="fill:#000006;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
          id="circle3254"
          cx="272"
          cy="384"
          r="12" />
       <circle
-         style="fill:#0f9d58;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
+         style="fill:#000006;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
          id="circle3256"
          cx="336"
          cy="192"
          r="12" />
       <circle
-         style="fill:#0f9d58;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
+         style="fill:#000006;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
          id="circle3258"
          cx="336"
          cy="256"
          r="12" />
       <circle
-         style="fill:#0f9d58;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
+         style="fill:#000006;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
          id="circle3260"
          cx="336"
          cy="320"
          r="12" />
       <circle
-         style="fill:#0f9d58;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
+         style="fill:#000006;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
          id="circle3262"
          cx="336"
          cy="384"
          r="12" />
       <circle
-         style="fill:#0f9d58;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
+         style="fill:#000006;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
          id="circle3264"
          cx="400"
          cy="256"
          r="12" />
       <circle
-         style="fill:#0f9d58;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
+         style="fill:#000006;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
          id="circle3266"
          cx="400"
          cy="320"
          r="12" />
       <circle
-         style="fill:#0f9d58;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
+         style="fill:#000006;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:16, 8;stroke-dashoffset:0;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
          id="circle3268"
          cx="400"
          cy="384"
